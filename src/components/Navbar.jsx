@@ -39,7 +39,7 @@ const Navbar = ({ activeSection, setActiveSection }) => {
             whileHover={{ scale: 1.05 }}
             className="text-2xl font-bold text-amber-600"
           >
-            IMBED Tech
+            HB Digital
           </motion.div>
 
           {/* Desktop Menu */}
