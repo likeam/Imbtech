@@ -109,7 +109,7 @@ const Contact = ({ setActiveSection }) => {
                 </div>
                 <div>
                   <h4 className="font-semibold">Phone</h4>
-                  <p className="text-gray-600">+1 (234) 567-8900</p>
+                  <p className="text-gray-600">+923006464569</p>
                 </div>
               </div>
 

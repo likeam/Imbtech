@@ -65,7 +65,7 @@ const Navbar = ({ activeSection, setActiveSection }) => {
           {/* Contact Buttons */}
           <div className="hidden md:flex items-center space-x-4">
             <motion.a
-              href="https://wa.me/1234567890"
+              href="https://wa.me/+923006464569"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
@@ -75,7 +75,7 @@ const Navbar = ({ activeSection, setActiveSection }) => {
               <span>WhatsApp</span>
             </motion.a>
             <motion.a
-              href="tel:+1234567890"
+              href="tel:+923006464569"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="bg-amber-600 text-white px-4 py-2 rounded-full flex items-center space-x-2"

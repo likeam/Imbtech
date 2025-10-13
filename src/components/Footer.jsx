@@ -99,11 +99,11 @@ const Footer = () => {
               <p className="mb-2">123 Digital Street</p>
               <p className="mb-2">Tech City, 10001</p>
               <p className="mb-2">info@digitalagency.com</p>
-              <p className="mb-4">+1 (234) 567-8900</p>
+              <p className="mb-4">+923006464569</p>
             </address>
             <div className="flex space-x-4">
               <motion.a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/+923006464569"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
@@ -113,7 +113,7 @@ const Footer = () => {
                 <div className="w-5 h-5">💬</div>
               </motion.a>
               <motion.a
-                href="tel:+1234567890"
+                href="tel:+923006464569"
                 whileHover={{ scale: 1.05 }}
                 className="bg-amber-500 text-white p-2 rounded-full"
               >
