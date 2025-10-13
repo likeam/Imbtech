@@ -144,7 +144,7 @@ const Navbar = ({ activeSection, setActiveSection }) => {
               ))}
               <div className="flex space-x-4 pt-2">
                 <a
-                  href="https://wa.me/1234567890"
+                  href="https://wa.me/+923006464569"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 bg-green-500 text-white text-center py-2 rounded-full"
@@ -152,7 +152,7 @@ const Navbar = ({ activeSection, setActiveSection }) => {
                   WhatsApp
                 </a>
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+923006464569"
                   className="flex-1 bg-amber-500 text-white text-center py-2 rounded-full"
                 >
                   Call Now
