@@ -12,7 +12,6 @@ const AboutUs = ({ setActiveSection }) => {
     visible: { transition: { staggerChildren: 0.2 } },
   };
 
-  // Leadership team data
   const leadershipTeam = [
     {
       name: "Farooq Ahmed",
@@ -23,7 +22,7 @@ const AboutUs = ({ setActiveSection }) => {
         "15+ years of experience in digital transformation and business strategy.",
     },
     {
-      name: "Michael Chen",
+      name: "Abdul Rehman",
       position: "CTO",
       image:
         "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
